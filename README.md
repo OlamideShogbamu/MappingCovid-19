@@ -63,6 +63,15 @@ Update the file paths as needed for your environment.
 - `africa-covid-19.shp`: Clipped COVID-19 data for Africa.
 - `africa-covid-19-monthly-2020.shp`: Monthly cumulative COVID-19 cases for African countries in 2020.
 
+## Data Sources
+
+- **African GADM Shapefile:** Administrative boundaries for Africa.  
+  [Download from Google Drive](https://drive.google.com/drive/folders/1OOdPCx0acSUwSGvD9z9SDvZked_h_dqN?usp=drive_link)
+- **World COVID-19 Shapefile:** Global COVID-19 case data with spatial attributes.
+- **Africa COVID-19 Data 2020:**  
+  [Download from Google Drive](https://drive.google.com/drive/folders/1xAT4t0tMGDV41jQiOdpHJHtxBfBr-zw3?usp=drive_link)
+
+
 ## Notes
 
 - Adjust file paths if running outside Google Colab.
